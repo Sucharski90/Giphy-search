@@ -1,4 +1,4 @@
-let giphy_api = "http://api.giphy.com/v1/gifs/search";
+let giphy_api = "https://api.giphy.com/v1/gifs/search";
 
   $("form").on("submit", function(e) {
     e.preventDefault();
