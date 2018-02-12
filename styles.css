@@ -1,0 +1,27 @@
+h1 {
+  display: grid;
+    align-items: center;
+    justify-content: center;
+    color: steelblue;
+    font-size: 115px;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+
+.form-inline {
+
+}
+ label {
+   color: steelblue;
+   font-size: 25px;
+   font-family: sans-serif;
+ }
+ .btn-primary {
+   background-color: steelblue;
+   color: white;
+   width: 8%;
+ }
+.btn-primary:hover {
+  background-color: white;
+  color: steelblue;
+}
